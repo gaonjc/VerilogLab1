@@ -2,7 +2,7 @@
 
 ## Part 1 
 ### Tracing the multiplications 14x11
-### ![Tracing 14x11](SimpleCalculator/Part1/14x11 multiplier breakdown.png)
+### ![Tracing 14x11]([SimpleCalculator/Part1/14x11 multiplier breakdown.png](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/14x11%20multiplier%20breakdown.png))
 
 ### Tracing the multiplications 9x5
 ### ![Tracing 9x5](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/9x5%20multiplier%20breakdown.png)
