@@ -21,10 +21,10 @@
 
 ## Part 2
 ### Note: We imported the code for mux_2x1_simple for this lab. You can find that code in the repository for Lab 0
-### You can find the code for mux_2x1_8bit [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%202/mux_2x1_8bit.v)
+### You can find the code for mux_2x1_8bit [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part2/mux_2x1_8bit.v)
 
 ### Calculator block diagram
-### ![Calculator block diagram](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%202/calculator%20block%20diagram.png)
+### ![Calculator block diagram](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part2/calculator%20block%20diagram.png)
 
-### You can find the code for simple_calc [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%202/simple_calc.v)
-### You can find the code for the constraint file for simple_calc [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%202/Nexys-A7-100T-Master.xdc)
+### You can find the code for simple_calc [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part2/simple_calc.v)
+### You can find the code for the constraint file for simple_calc [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part2/Nexys-A7-100T-Master.xdc)
