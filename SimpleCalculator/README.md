@@ -5,19 +5,19 @@
 ### ![Tracing 14x11](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/14x11%20multiplier%20breakdown.png)
 
 ### Tracing the multiplications 9x5
-### ![Tracing 9x5](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/9x5%20multiplier%20breakdown.png)
+### ![Tracing 9x5](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/9x5%20multiplier%20breakdown.png)
 
-### You can find the code for mq_4bit [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/mq_4bit.v)
+### You can find the code for mq_4bit [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/mq_4bit.v)
 
 ### Breaking down the multiplier to read csa_multiplier a lot more easily
-### ![Multiplier help](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/multiplier%20breakdown.png)
-### You can find the code for csa_multiplier [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/csa_multiplier.v)
+### ![Multiplier help](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/multiplier%20breakdown.png)
+### You can find the code for csa_multiplier [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/csa_multiplier.v)
 
 ### Testbench for 0x10, 5x5, 9x5, 12x13, and 15x10 in binary
-### ![Testbench in binary](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/multiplier%20binary%20testbench.png)
+### ![Testbench in binary](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/multiplier%20binary%20testbench.png)
 ### Testbench for 0x10, 5x5, 9x5, 12x13, and 15x10 in decimal
-### ![Testbench in decimal](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/multiplier%20decimal%20testbench.png)
-### You can find the code for csa_multiplier_tb [*here*](https://github.com/Spring-2024-Classes/lab-1-building-multiplier-and-simple-calculator-thedawgs/blob/main/Part%201/csa_multiplier_tb.v)
+### ![Testbench in decimal](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/multiplier%20decimal%20testbench.png)
+### You can find the code for csa_multiplier_tb [*here*](https://github.com/gaonjc/VerilogLabs/blob/main/SimpleCalculator/Part1/csa_multiplier_tb.v)
 
 ## Part 2
 ### Note: We imported the code for mux_2x1_simple for this lab. You can find that code in the repository for Lab 0
